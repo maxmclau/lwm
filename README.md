@@ -2,6 +2,7 @@
 
 > Lightweight mesh port focused on ATmega256RFR2 MCU. However,
 >> The Lightweight Mesh software stack is designed to work with all Atmel IEEE® 802.15.4 transceivers and SoCs.
+
 > You'll just have to change some of the classes.
 
 ## Licence
