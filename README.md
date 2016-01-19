@@ -1,4 +1,4 @@
-# Atmel LWMesh Arduino Port [![Current Version](https://img.shields.io/badge/license-atmel-green.svg)](https://github.com/maxmclau/arduino-lwm) <img src="http://i.imgur.com/6Te8dAM.png" width="180px" align="right" />
+# LWM for Arduino [![License](https://img.shields.io/badge/license-atmel-green.svg)](https://github.com/maxmclau/arduino-lwm) [![Current Version](https://img.shields.io/badge/version-v1.2.1-blue.svg)](https://github.com/maxmclau/arduino-lwm) <img src="http://i.imgur.com/6Te8dAM.png" width="180px" align="right" />
 
 > Lightweight mesh port focused on ATmega256RFR2 MCU. However,
 >> The Lightweight Mesh software stack is designed to work with all Atmel IEEE® 802.15.4 transceivers and SoCs.
