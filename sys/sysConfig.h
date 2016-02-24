@@ -50,9 +50,6 @@ extern "C" {
 #ifndef _SYS_CONFIG_H_
 #define _SYS_CONFIG_H_
 
-/*- Includes ---------------------------------------------------------------*/
-#include "../../../config.h"
-
 /*- Definitions ------------------------------------------------------------*/
 #ifndef NWK_BUFFERS_AMOUNT
 #define NWK_BUFFERS_AMOUNT                       5
