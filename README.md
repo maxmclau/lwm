@@ -12,7 +12,7 @@ $ git clone https://github.com/maxmclau/lwm.git
 
 LWM requires a lwm.h file with configuration macros in order to compile correctly.
 
-##### Location
+##### Configuration / Location
 
     ├── parent
     │   ├── lwm
@@ -22,7 +22,7 @@ LWM requires a lwm.h file with configuration macros in order to compile correctl
     │   │   └── sys
     │   └── lwm.h
 
-##### Example
+##### Configuration / Example
 
 ```Arduino
 #ifndef _LWM_H_
