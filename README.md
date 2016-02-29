@@ -2,13 +2,13 @@
 
 Arduino port of [Atmel Lightweight Mesh](http://www.atmel.com/tools/lightweight_mesh.aspx).
 
-### Install
+#### Install
 
 ```Shell
 $ git clone https://github.com/maxmclau/lwm.git
 ```
 
-### Configuration
+#### Configuration
 
 > LWM requires a lwm.h file with configuration macros in order to compile correctly.
 
@@ -34,6 +34,6 @@ $ git clone https://github.com/maxmclau/lwm.git
 #endif // _LWM_H_
 ```
 
-### License
+#### License
 
 **`Atmel Limited License`**
