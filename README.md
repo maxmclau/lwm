@@ -10,7 +10,7 @@ $ git clone https://github.com/maxmclau/lwm.git
 
 #### Configuration
 
-> LWM requires a lwm.h file with configuration macros in order to compile correctly.
+LWM requires a lwm.h file with configuration macros in order to compile correctly.
 
 ##### Location
 
