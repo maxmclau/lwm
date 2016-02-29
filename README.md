@@ -12,13 +12,7 @@ $ git clone https://github.com/maxmclau/lwm.git
 ### Usage
 
 ```Arduino
-void setup() {
-    Czar.setup();
-}
-    
-void loop() {
-    Czar.loop();
-}
+...
 ```
 
 ### License
