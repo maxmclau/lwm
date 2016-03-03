@@ -36,4 +36,4 @@ LWM requires a lwm.h file with configuration macros in order to compile correctl
 
 #### License
 
-**`Atmel Limited License`**
+[**`Atmel Limited License`**](LICENSE)
