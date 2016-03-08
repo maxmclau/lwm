@@ -17,4 +17,4 @@ $ git clone https://github.com/maxmclau/lwm.git
 
 ### License
 
-**`Atmel Limited License`**
+[**`Atmel Limited License`**](LICENSE)
