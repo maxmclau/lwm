@@ -2,19 +2,19 @@
 
 Arduino port of [Atmel Lightweight Mesh](http://www.atmel.com/tools/lightweight_mesh.aspx).
 
-### Install
+#### Install
 
 ```Shell
 $ cd ~/Documents/Arduino/libraries
 $ git clone https://github.com/maxmclau/lwm.git
 ```
 
-### Usage
+#### Usage
 
 ```Arduino
 ...
 ```
 
-### License
+#### License
 
 [**`Atmel Limited License`**](LICENSE)
