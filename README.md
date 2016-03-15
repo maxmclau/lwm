@@ -5,7 +5,7 @@ Arduino port of [Atmel Lightweight Mesh](http://www.atmel.com/tools/lightweight_
 #### Install
 
 ```Shell
-$ git clone https://github.com/moa/lwm.git
+$ git clone https://github.com/maxmclau/lwm.git
 ```
 
 #### Configuration
